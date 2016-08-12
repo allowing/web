@@ -1,5 +1,7 @@
 {
+    "name": "allowing/web",
     "require": {
+        "php": ">=5.6",
         "allowing/core": "*"
     },
     "autoload": {
